@@ -1,0 +1,20 @@
+ instruction 
+step one : download the project folder from github and unzip it
+
+step two: after unzipping the folder, rename the folder to noticeboard, i.e just as the name of 
+the old project in your xampp htdocs
+
+step three : open noticceboard.sql in your preferred editor
+
+step four : drop the noticeboard database in your phpmyadmin.
+
+Step five : create a new database called noticeboard just like the database name you find in the 
+noticeboard.sql
+
+step six : import the noticeboard.sql, by clicking on the import top on the top menu bar of your
+new created database.
+	if all thing goes successfull, all database table and it's dump data will be imported.
+
+step: seven : carry your new project that you rename to noticeboard to your htdocs,
+
+the run it on your preferred browser.
